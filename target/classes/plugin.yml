@@ -1,0 +1,7 @@
+name: 2FA-Plus
+version: '1.0'
+main: be.rivzer.tweefaplus.Main
+
+commands:
+  2fa:
+    description: 2fa gui
